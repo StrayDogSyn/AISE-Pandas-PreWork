@@ -1,0 +1,16 @@
+product_id,product_name,category,price,units_sold,profit_margin,launch_date,supplier
+P001,Wireless Headphones,Electronics,79.99,1250,0.35,2023-01-15,TechCorp
+P002,Running Shoes,Clothing,129.99,890,0.45,2023-02-01,SportGear
+P003,Coffee Maker,Home,89.99,675,0.40,2023-01-20,HomeGoods
+P004,Programming Book,Books,49.99,423,0.60,2023-03-01,EduPress
+P005,Yoga Mat,Sports,29.99,892,0.50,2023-02-15,FitLife
+P006,Smartphone Case,Electronics,24.99,1456,0.65,2023-01-10,TechCorp
+P007,Winter Jacket,Clothing,199.99,234,0.35,2023-10-01,WarmWear
+P008,Desk Lamp,Home,39.99,567,0.45,2023-02-20,HomeGoods
+P009,Data Science Guide,Books,79.99,289,0.55,2023-03-15,EduPress
+P010,Tennis Racket,Sports,149.99,345,0.40,2023-04-01,SportGear
+P011,Bluetooth Speaker,Electronics,59.99,834,0.42,2023-01-25,TechCorp
+P012,T-Shirt,Clothing,19.99,1678,0.60,2023-01-05,CasualWear
+P013,Blender,Home,119.99,456,0.38,2023-02-10,HomeGoods
+P014,Python Cookbook,Books,69.99,312,0.58,2023-03-20,EduPress
+P015,Basketball,Sports,39.99,578,0.48,2023-03-05,SportGear

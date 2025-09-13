@@ -1,0 +1,21 @@
+name,age,major,gpa,credits,scholarship,join_date,email
+Alice Johnson,23,Computer Science,3.8,90,True,2022-09-01,alice.johnson@university.edu
+Bob Smith,24,Mathematics,3.6,95,False,2021-09-01,bob.smith@university.edu
+Charlie Brown,22,Computer Science,3.9,85,True,2023-01-15,charlie.brown@university.edu
+Diana Prince,25,Physics,3.7,100,False,2021-09-01,diana.prince@university.edu
+Edward Chen,23,Engineering,3.5,88,True,2022-09-01,edward.chen@university.edu
+Fiona Davis,24,Mathematics,3.4,92,False,2022-01-15,fiona.davis@university.edu
+George Wilson,22,Computer Science,3.8,87,True,2023-09-01,george.wilson@university.edu
+Hannah Lee,25,Physics,3.6,98,False,2021-01-15,hannah.lee@university.edu
+Ian Rodriguez,23,Engineering,3.7,91,True,2022-09-01,ian.rodriguez@university.edu
+Julia Martinez,24,Mathematics,3.9,94,True,2022-01-15,julia.martinez@university.edu
+Kevin Thompson,22,Computer Science,3.5,83,False,2023-09-01,kevin.thompson@university.edu
+Lisa Anderson,25,Physics,3.8,102,True,2021-09-01,lisa.anderson@university.edu
+Michael Jackson,23,Engineering,3.6,89,False,2022-09-01,michael.jackson@university.edu
+Nina Patel,24,Mathematics,3.7,93,True,2022-01-15,nina.patel@university.edu
+Oscar Garcia,22,Computer Science,3.4,86,False,2023-09-01,oscar.garcia@university.edu
+Paula White,25,Physics,3.9,105,True,2021-09-01,paula.white@university.edu
+Quinn Taylor,23,Engineering,3.8,90,True,2022-09-01,quinn.taylor@university.edu
+Rachel Green,24,Mathematics,3.5,96,False,2022-01-15,rachel.green@university.edu
+Steven Clark,22,Computer Science,3.7,84,True,2023-09-01,steven.clark@university.edu
+Tina Turner,25,Physics,3.6,99,False,2021-09-01,tina.turner@university.edu

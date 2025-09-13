@@ -1,0 +1,57 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@email.com",
+    "registration_date": "2023-01-15",
+    "age": 28,
+    "city": "New York",
+    "total_orders": 12,
+    "total_spent": 1245.67,
+    "preferred_category": "Electronics"
+  },
+  {
+    "customer_id": "CUST002", 
+    "name": "Bob Smith",
+    "email": "bob.smith@email.com",
+    "registration_date": "2023-02-20",
+    "age": 34,
+    "city": "Los Angeles",
+    "total_orders": 8,
+    "total_spent": 892.33,
+    "preferred_category": "Books"
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Charlie Brown",
+    "email": "charlie.brown@email.com", 
+    "registration_date": "2023-01-08",
+    "age": 25,
+    "city": "Chicago",
+    "total_orders": 15,
+    "total_spent": 2103.45,
+    "preferred_category": "Clothing"
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Diana Prince",
+    "email": "diana.prince@email.com",
+    "registration_date": "2023-03-12",
+    "age": 31,
+    "city": "Houston",
+    "total_orders": 6,
+    "total_spent": 567.89,
+    "preferred_category": "Home"
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Edward Chen",
+    "email": "edward.chen@email.com",
+    "registration_date": "2023-02-05",
+    "age": 29,
+    "city": "San Francisco",
+    "total_orders": 20,
+    "total_spent": 3245.12,
+    "preferred_category": "Electronics"
+  }
+]

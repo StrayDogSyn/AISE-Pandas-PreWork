@@ -1,0 +1,37 @@
+# Pandas Mastery for Applied AI Solutions Engineering 2026
+# Core Requirements
+
+# Data manipulation and analysis
+pandas>=2.1.0,<2.2.0
+numpy>=1.24.0,<1.26.0
+
+# Visualization
+matplotlib>=3.7.0,<3.8.0
+seaborn>=0.12.0,<0.13.0
+plotly>=5.17.0,<5.18.0
+
+# Jupyter notebook support
+jupyter>=1.0.0,<1.1.0
+jupyterlab>=4.0.0,<4.1.0
+ipykernel>=6.25.0,<6.26.0
+
+# Machine learning
+scikit-learn>=1.3.0,<1.4.0
+
+# File I/O support
+openpyxl>=3.1.0,<3.2.0
+xlrd>=2.0.0,<2.1.0
+
+# Data profiling and quality
+ydata-profiling>=4.6.0,<4.7.0
+
+# Utilities
+python-dotenv>=1.0.0,<1.1.0
+requests>=2.31.0,<2.32.0
+beautifulsoup4>=4.12.0,<4.13.0
+lxml>=4.9.0,<5.0.0
+
+# Development and testing (optional)
+pytest>=7.4.0,<7.5.0
+black>=23.0.0,<24.0.0
+flake8>=6.0.0,<6.1.0
